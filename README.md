@@ -72,3 +72,9 @@ Gratitude to:
 - Collaborators who contributed ideas and support throughout development.
 - Open-Source Community for inspiring solutions and sharing resources.
 - Users and Testers who provided feedback to refine the scheduler’s functionality.
+
+
+
+Created with ❤️ by a passionate programmer
+
+Submittion from - ##IITGCS-24061107 (prateekarya10 / Prateek Arya)
