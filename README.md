@@ -51,7 +51,6 @@ This simulation processes job queues and resource allocation efficiently:
 The program generates these files for analysis:
 
 - resource_utilization.csv: Average daily CPU and memory usage for each policy combination.
-- performance_graphs.png: Graphical representation of resource utilization metrics.
 
 ## 🔍 Future Scope
 
